@@ -1,0 +1,12 @@
+#mc{
+    border: 8px ridge grey;
+    background-color: white;
+}
+body{
+    background-image: url("https://pngimg.com/uploads/pencil/pencil_PNG3853.png");
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: white;
+}
